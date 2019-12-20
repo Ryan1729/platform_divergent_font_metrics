@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 rusttype = "0.8.2"
+glutin = "0.22.0-alpha3"
